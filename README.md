@@ -1,1 +1,1 @@
-# DeepLearningCourse
+# DeepLearningSpecialization
