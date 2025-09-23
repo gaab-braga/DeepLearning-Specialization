@@ -86,11 +86,11 @@ jupyter lab
 <table>
   <tr>
     <td align="center">
-      <img src="https://d2cwu5ct70cifo.cloudfront.net/Downloads/certifi-06-removebg-preview.webp" alt="DeepLearning.AI Badge" height="80" style="vertical-align:middle;" /><br/>
+      <img src="assets/deeplearning-badge.webp" alt="Badge" height="80" style="vertical-align:middle;" /><br/>
       <strong>DeepLearning.AI</strong>
     </td>
     <td align="center">
-      <img src="https://cdn.pixabay.com/animation/2025/03/23/20/59/20-59-39-205__480.png" alt="Livro girando" height="80" style="vertical-align:middle;" /><br/>
+      <img src="assets/book-flip-giphy.gif" alt="Livro virando páginas" height="80" style="vertical-align:middle;" /><br/>
       <em>Resumo & Portfólio</em>
     </td>
   </tr>
