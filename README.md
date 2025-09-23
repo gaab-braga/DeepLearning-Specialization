@@ -82,11 +82,10 @@ jupyter lab
 
 ---
 
-## 📌 Sugestões de badges & primeiros visuais
 
-* <img src="https://d2cwu5ct70cifo.cloudfront.net/Downloads/certifi-06-removebg-preview.webp" alt="DeepLearning.AI Badge" width="140">
+<img src="https://d2cwu5ct70cifo.cloudfront.net/Downloads/certifi-06-removebg-preview.webp" alt="DeepLearning.AI Badge" width="140">
 * Linha do tempo do curso (pequeno roadmap com setas)
-* GIF curto mostrando um notebook rodando (`jupyter nbconvert --to html` e screenshot)
+![Livro girando](https://cdn.pixabay.com/animation/2025/03/23/20/59/20-59-39-205__480.png)
 
 ---
 
