@@ -65,7 +65,7 @@ A *Deep Learning Specialization* é um conjunto de **5 cursos** focados em ensin
 
 ```bash
 # 1) clonar
-git clone https://github.com/SEU-USUARIO/DeepLearningSpecialization.git
+git clone git@github.com:gaab-braga/DeepLearningSpecialization.git
 cd DeepLearningSpecialization
 
 # 2) criar ambiente (recomendado)
