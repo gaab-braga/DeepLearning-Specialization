@@ -1,6 +1,6 @@
 # Deep Learning Specialization — Resumo & Portfólio
 
-![Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+![DeepLearning.AI on Coursera](https://img.shields.io/badge/DeepLearning.AI-Coursera-blue)
 
 > **Andrew Ng & DeepLearning.AI — Coursera**
 
