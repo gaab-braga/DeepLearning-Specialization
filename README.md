@@ -57,8 +57,6 @@ A *Deep Learning Specialization* é um conjunto de **5 cursos** focados em ensin
 * `requirements.txt` — dependências para rodar os notebooks localmente.
 * `README.md` — este arquivo.
 
-> Se quiser, eu posso gerar um `requirements.txt` / `environment.yml` automaticamente com base nos notebooks — peça que eu faça.
-
 ---
 
 ## 🛠 Como executar (guia rápido)
@@ -108,12 +106,4 @@ jupyter lab
 * Créditos: Andrew Ng & DeepLearning.AI (Coursera).
 
 ---
-
-## 📬 Contato
-
-Quer que eu adapte o README (trocar tom, incluir imagens/vídeos, adicionar badges dinâmicos ou gerar `requirements.txt`)? Me fala o tom que prefere: **mais formal**, **mais técnico** ou **mais atraente para recrutadores** — eu ajusto na hora.
-
----
-
-*Gerado automaticamente: README detalhado para destacar o conteúdo e a prática da Deep Learning Specialization. Se quiser, faço uma versão em inglês.*
 
