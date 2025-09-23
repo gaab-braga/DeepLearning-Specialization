@@ -80,13 +80,11 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-> Se preferir, substitua pelo `conda env create -f environment.yml` se eu gerar o arquivo para você.
-
 ---
 
 ## 📌 Sugestões de badges & primeiros visuais
 
-* Badge Coursera / DeepLearning.AI
+* <img src="https://d2cwu5ct70cifo.cloudfront.net/Downloads/certifi-06-removebg-preview.webp" alt="DeepLearning.AI Badge" width="140">
 * Linha do tempo do curso (pequeno roadmap com setas)
 * GIF curto mostrando um notebook rodando (`jupyter nbconvert --to html` e screenshot)
 
