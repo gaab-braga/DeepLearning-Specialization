@@ -1,3 +1,6 @@
+<p align="center">
+<img src="assets/dp.ai.png" alt="Badge Machine Learning Specialization" height="100">   
+</p>
 <h1 align="center">Deep Learning Specialization — Portfólio de Projetos</h1>
 
 <p align="center">
@@ -57,7 +60,7 @@ A *Deep Learning Specialization* é um programa de 5 cursos que ensina desde os 
 
 <td align="center" width="50%">
 <strong>Geração de Arte com Neural Style Transfer</strong><br/><br/>
-<img src="assets/arts.jpg" 
+<img src="assets/arts.png" 
      alt="Projeto 2 - Geração de Arte" width="400" style="border-radius: 8px;" /><br/><br/>
 <small>Esse é bem visual: gerar imagens aplicando o estilo de uma obra de arte em uma foto.</small><br/><br/>
 <a href="https://github.com/gaab-braga/DeepLearningSpecialization/blob/main/n02_CNN/n03_Face_recog/n01_Art_Generation_with_Neural_Style_Transfer.ipynb">➡️ Ver o Notebook</a>
