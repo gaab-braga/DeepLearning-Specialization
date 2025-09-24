@@ -17,7 +17,7 @@
 
 <p align="center">
 <a href="#-objetivo-principal">Objetivo</a> •
-<a href="#-showcase-de-projetos">Projetos em Destaque</a> •
+<a href="#-showcase-de-projetos-em-destaque">Projetos em Destaque</a> •
 <a href="#-estrutura-do-repositório">Estrutura</a> •
 <a href="#-como-executar-localmente">Como Executar</a> •
 <a href="#-licença-e-créditos">Licença</a>
