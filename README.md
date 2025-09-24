@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1599658880122-91e3b4d532de?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=300&q=80" 
+  <img src="assets/pietro-jeng-n6B49lTx7NM-unsplash.jpg" 
        alt="Banner Deep Learning" style="border-radius: 8px;">
 </p>
 
