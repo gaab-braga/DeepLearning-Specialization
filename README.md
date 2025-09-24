@@ -1,7 +1,7 @@
 <p align="center">
 <img src="assets/dp.ai.png" alt="Badge Machine Learning Specialization" height="100">   
 </p>
-<h1 align="center">Deep Learning Specialization — Portfólio de Projetos</h1>
+<h1 align="center">Deep Learning Specialization</h1>
 
 <p align="center">
 <strong>Implementações e anotações da especialização da DeepLearning.AI por Andrew Ng</strong>
