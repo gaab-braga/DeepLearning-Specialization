@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="assets/pietro-jeng-n6B49lTx7NM-unsplash.jpg" 
-       alt="Banner Deep Learning" style="border-radius: 8px;">
+  <img src="./assets/pietro-jeng-n6B49lTx7NM-unsplash.jpg" 
+       alt="Banner Deep Learning" width="600">
 </p>
 
 <h1 align="center">Deep Learning Specialization — Portfólio de Projetos</h1>
