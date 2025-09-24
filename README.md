@@ -50,7 +50,7 @@ A *Deep Learning Specialization* é um programa de 5 cursos que ensina desde os 
 <td align="center" width="50%">
 <strong>Detecção de Carros em Imagens (Object Detection)</strong><br/><br/>
 <img src="assets/cars.png" 
-     alt="Projeto 1 - Detecção de Carros" style="border-radius: 8px;" /><br/><br/>
+     alt="Projeto 1 - Detecção de Carros" width="400" style="border-radius: 8px;" /><br/><br/>
 <small>Esse é um projeto clássico da especialização, usando YOLO-like models para detectar carros em imagens de tráfego.</small><br/><br/>
 <a href="https://github.com/gaab-braga/DeepLearningSpecialization/blob/main/n02_CNN/n02_Object_detec/n00_Autonomous_driving_application_Car_detection.ipynb">➡️ Ver o Notebook</a>
 </td>
@@ -58,7 +58,7 @@ A *Deep Learning Specialization* é um programa de 5 cursos que ensina desde os 
 <td align="center" width="50%">
 <strong>Geração de Arte com Neural Style Transfer</strong><br/><br/>
 <img src="assets/arts.jpg" 
-     alt="Projeto 2 - Geração de Arte" style="border-radius: 8px;" /><br/><br/>
+     alt="Projeto 2 - Geração de Arte" width="400" style="border-radius: 8px;" /><br/><br/>
 <small>Esse é bem visual: gerar imagens aplicando o estilo de uma obra de arte em uma foto.</small><br/><br/>
 <a href="https://github.com/gaab-braga/DeepLearningSpecialization/blob/main/n02_CNN/n03_Face_recog/n01_Art_Generation_with_Neural_Style_Transfer.ipynb">➡️ Ver o Notebook</a>
 </td>
