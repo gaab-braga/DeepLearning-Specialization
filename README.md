@@ -121,5 +121,5 @@ Créditos: **Andrew Ng & DeepLearning.AI (Coursera)**
 ---
 
 <p align="center">
-  <small>Desenvolvido com ❤️ por <a href="https://github.com/gaab-braga">Gabriel Braga</a></small>
+  <small>Desenvolvido por <a href="https://github.com/gaab-braga">Gabriel Braga</a></small>
 </p>
