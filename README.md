@@ -53,19 +53,19 @@ A *Deep Learning Specialization* é um programa de 5 cursos que ensina desde os 
 <table>
 <tr>
 <td align="center" width="50%">
-<strong>Reconhecimento de Sinais Manuais (0-5)</strong><br/><br/>
-<img src="https://placehold.co/400x250/2d3748/e2e8f0?text=Projeto+1" 
-     alt="Projeto 1 - Reconhecimento de Sinais" style="border-radius: 8px;" /><br/><br/>
-<small>Implementação de uma Rede Neural do zero para classificar imagens de sinais manuais.</small><br/><br/>
-<a href="./n00_NN/link_para_o_notebook.ipynb">➡️ Ver o Notebook</a>
+<strong>Detecção de Carros em Imagens (Object Detection)</strong><br/><br/>
+<img src="assets/cars.png" 
+     alt="Projeto 1 - Detecção de Carros" style="border-radius: 8px;" /><br/><br/>
+<small>Esse é um projeto clássico da especialização, usando YOLO-like models para detectar carros em imagens de tráfego.</small><br/><br/>
+<a href="https://github.com/gaab-braga/DeepLearningSpecialization/blob/main/n02_CNN/n02_Object_detec/n00_Autonomous_driving_application_Car_detection.ipynb">➡️ Ver o Notebook</a>
 </td>
 
 <td align="center" width="50%">
-<strong>Detecção de Emoções em Faces com CNNs</strong><br/><br/>
-<img src="https://placehold.co/400x250/2d3748/e2e8f0?text=Projeto+2" 
-     alt="Projeto 2 - Emoções em Faces" style="border-radius: 8px;" /><br/><br/>
-<small>Rede Convolucional com TensorFlow/Keras para identificar emoções em imagens de rostos.</small><br/><br/>
-<a href="./n02_CNN/link_para_o_notebook.ipynb">➡️ Ver o Notebook</a>
+<strong>Geração de Arte com Neural Style Transfer</strong><br/><br/>
+<img src="assets/arts.jpg" 
+     alt="Projeto 2 - Geração de Arte" style="border-radius: 8px;" /><br/><br/>
+<small>Esse é bem visual: gerar imagens aplicando o estilo de uma obra de arte em uma foto.</small><br/><br/>
+<a href="https://github.com/gaab-braga/DeepLearningSpecialization/blob/main/n02_CNN/n03_Face_recog/n01_Art_Generation_with_Neural_Style_Transfer.ipynb">➡️ Ver o Notebook</a>
 </td>
 </tr>
 </table>
@@ -78,7 +78,6 @@ A *Deep Learning Specialization* é um programa de 5 cursos que ensina desde os 
 📁 n01_Improving_DNN/   → Regularização, Batch Norm, Otimização
 📁 n02_CNN/             → Projetos de Visão Computacional
 📁 n03_SM/              → Modelos Sequenciais e NLP
-📄 requirements.txt     → Dependências
 📄 README.md            → Apresentação
 ```
 
