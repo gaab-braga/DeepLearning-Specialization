@@ -113,7 +113,7 @@ Uso educacional e de portfólio, respeitando a licença original do curso.
 Créditos: **Andrew Ng & DeepLearning.AI (Coursera)**  
 
 ---
-
 <p align="center">
-  <small>Desenvolvido por <a href="https://github.com/gaab-braga">Gabriel Braga</a></small>
+  <img src="assets/deeplearning-badge.webp" 
+       alt="Certificado Deep Learning Specialization" width="180">
 </p>
